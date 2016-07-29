@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Harish" >
+    <meta name="author" content="">
 
     <title>KREIOS</title>
 
@@ -100,7 +100,23 @@
         		</div>
         <!-- /.container -->
   </section>
-   
+    <!--<section id="about">
+    	<div class="container">
+    	   <div class="row text-center">
+    	       <div class="col-lg-8 col-lg-offset-2">
+    	   	   <h2> WHO ARE WE ?</h2>
+    	   	      <div class="col-md-6 col-sm-12">
+    	   	         <span class="fa-stack fa-8x">
+    	   	         <img class="image" src="img/pa.jpg" width="50" height="50">	
+    	   	         </span>
+    	   	      	
+    	   	      </div>
+    	       </div>
+    	    </div>
+    		
+    	</div>
+    </section>-->
+    <!-- Services -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <section id="services" class="services bg-primary">
         <div class="container-fluid">
